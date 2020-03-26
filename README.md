@@ -56,6 +56,14 @@ Also the prediction model was inspired and built by the great work of [Tomas Pue
 
 You can read his article [Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
+## Team Members
+
++   Mohammad Sharaf Hijjeh **(Architect)**
++   Bryan Linnell **(UX/UI)**
++   Jacó Júlio **(Python/Computer Vision)**
++   Karl @rabbull **(Backend/ML)**
++   Matt Przybyla **(Data Scientist)**
+
 ## License
 Apache License Version 2.0, for more information please check the [LICENSE](LICENSE) file.
 
