@@ -4,10 +4,9 @@
 ![](https://img.shields.io/static/v1?label=status&message=under%20development&color=blueviolet&style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/github/last-commit/abusharaf/covid19-case?style=for-the-badge&logo=github)
 ![](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
-[![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH)
 [![Gitter](https://img.shields.io/gitter/room/abusharaf/covid19-case?logo=gitter&style=for-the-badge&color=green)](https://gitter.im/covid19-case/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![ ](https://img.shields.io/badge/Design%20Thinking-On%20Trello-blue?style=for-the-badge&logo=trello)](https://trello.com/b/o7nigPUk)
-
+<!-- [![ ](https://img.shields.io/twitter/follow/MSharafH?logo=twitter&style=for-the-badge)](https://twitter.com/MSharafH) -->
 
 ## Introduction
 
